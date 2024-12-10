@@ -36,15 +36,16 @@ Create a PostgreSQL database using the sql script and database credentials provi
 Import the provided SQL scripts to initialize tables and data.
 Update the API keys (use yours) and database credentials in the PHP configuration files.
  
-Team Members
-Krish Chaudhary
-Paulo Gomes
-Yazid Mohamed
-Manh Cuong Nguyen
-Kyla Pineda
-Leonardo Wrubleski
+Team Members:
+Krish Chaudhary,
+Paulo Gomes,
+Yazid Mohamed,
+Manh Cuong Nguyen,
+Kyla Pineda,
+Leonardo Wrubleski,
 
-Future Enhancements
+Future Enhancements:
+
 Real-time route updates to adapt to traffic changes.
 User authentication system for personalized geolocation history.
 Multi-language support for international users.
