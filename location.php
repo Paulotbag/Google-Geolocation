@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="css/location.css">
     <link rel="stylesheet" href="css/style.css">
     <!-- Google Maps API for Geolocation and Map rendering -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjk8ThaZ9tgH1FPGAch_JCECbysZS3_So&libraries=places&callback=initMap&t=${new Date().getTime()}" async defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=______________=${new Date().getTime()}" async defer></script>
 </head>
 <body id="location-page" onload="initMap()">
 
