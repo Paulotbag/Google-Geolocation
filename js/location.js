@@ -101,7 +101,7 @@ function findMyCoordinates() {
                 currentLatitude = position.coords.latitude;
                 currentLongitude = position.coords.longitude;
 
-                const geoAPI = `https://maps.googleapis.com/maps/api/geocode/json?latlng=${currentLatitude},${currentLongitude}&key=AIzaSyDwrOSN1lzpjga-RY3zVGYs9mUWSWp6VJ4`;
+                const geoAPI = `https://maps.googleapis.com/maps/api/geocode/json?latlng=${currentLatitude},${currentLongitude}&key=_________________`;
 
                 updateMap(currentLatitude, currentLongitude);
                 getAPI(geoAPI, currentLatitude, currentLongitude);
